@@ -1181,7 +1181,7 @@ che mất nên dùng trên select để vẫn xài overflow dc */
     background-color: var(--white-color);
     border-radius: 2px;
     box-shadow: 0 1px 2px 0 rgb(0, 0, 0, 0.1);
-    transition: transform linear 0.1s;
+    transition: 0.5s;
     will-change: transform;
 }
 
